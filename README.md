@@ -3,6 +3,8 @@
 
 The S3.php file is taken from https://github.com/tpyo/amazon-s3-php-class .
 
+No need to download sdk.
+
 In the upload.php file you will get the code to upload any file to amazon S3 using simple PHP code.
 
 In the getFiles.php you will get the code to fetch all the files from your bucket.
